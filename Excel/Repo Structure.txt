@@ -1,0 +1,10 @@
+Data Analytics Journey
+
+This repo tracks my progress in learning data analytics, starting with Excel.  
+I’ve split the work into two main parts so it’s easier to follow:
+
+
+Repo Structure
+1.Daily Learnings : Daily logs, Each day has a file (Example: 'day01.txt', 'day02.txt') with what I learned.  
+2.Tasks: Practice files and exercises. Each task has its own file (Example:'task01.xlsx','task02.xlsx').  
+
