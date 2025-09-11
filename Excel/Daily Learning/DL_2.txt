@@ -1,0 +1,61 @@
+2025-09-11
+
+Time spent:60min
+
+Time Stamp:
+Topic(s):02:05:33
+Formulas& Functions – Short Notes
+
+Formulas Intro
+
+Start with = sign.
+
+Can reference cells directly (=A1+B1).
+
+Combination of operators, values, and references.
+
+Functions Intro
+
+Predefined formulas for common tasks.
+
+Syntax: =FUNCTION_NAME(arguments).
+
+Example: =SUM(A1:A10).
+
+Logical Functions
+
+IF(condition, value_if_true, value_if_false)
+
+AND(condition1, condition2, …)
+
+OR(condition1, condition2, …)
+
+NOT(condition)
+
+Math Functions
+
+SUM(range) – add values.
+
+ROUND(number, num_digits) – round to set decimals.
+
+ABS(number) – absolute value.
+
+POWER(number, exponent) – exponentiation.
+
+Statistical Functions
+
+AVERAGE(range) – mean.
+
+MEDIAN(range) – middle value.
+
+MAX(range) / MIN(range) – largest/smallest.
+
+COUNT(range) – counts numbers.
+
+Array Formulas
+
+Perform multiple calculations at once.
+
+Example: {=SUM(A1:A10*B1:B10)} (older Excel).
+
+New Excel uses dynamic arrays (=A1:A10*B1:B10).
