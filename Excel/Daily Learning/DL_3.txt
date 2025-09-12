@@ -1,0 +1,14 @@
+2025-09-12
+
+Time spent:60min
+
+Time Stamp: 3:01:33
+
+Topic(s):
+Array Formulas – Perform multiple calculations on ranges/arrays at once; useful for criteria-based sums, dynamic ranges, and avoiding helper columns.
+
+Lookup Functions – VLOOKUP, HLOOKUP, INDEX, MATCH; used to search and retrieve values from tables. INDEX + MATCH is more flexible than VLOOKUP.
+
+Text Functions – LEFT, RIGHT, MID, LEN, TRIM, UPPER/LOWER/PROPER, CONCAT/TEXTJOIN; used for cleaning and manipulating text data.
+
+Date & Time Functions – TODAY, NOW, DATE, DAY, MONTH, YEAR, WEEKDAY, NETWORKDAYS; used for calculations with dates/times, project tracking, and schedules.
